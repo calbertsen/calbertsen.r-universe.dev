@@ -1,0 +1,15 @@
+[
+
+  
+  {
+    "package":"argosTrack",
+    "url":"https://github.com/calbertsen/argosTrack"
+  },
+  
+  {
+    "package":"otoclass",
+    "url":"https://github.com/calbertsen/otoclass",
+    "branch":"feature/multi_group"
+  }
+
+]
