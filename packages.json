@@ -12,6 +12,32 @@
     "url":"https://github.com/calbertsen/otoclass",
     "branch":"feature/multi_group",
     "subdir":"otoclass"
+  },
+  
+   {
+    "package":"covafillr",
+    "url":"https://github.com/calbertsen/covafillr",
+    "subdir":"covafillr"
+  },
+  
+   {
+    "package":"caMisc",
+    "url":"https://github.com/calbertsen/caMisc",
+    "subdir":"caMisc"
+  },
+  
+   {
+    "package":"multiStockassessment",
+    "url":"https://github.com/calbertsen/multi_SAM",
+    "subdir":"multiStockassessment",
+     "branch":"shared_obs"
+  },
+  
+   {
+    "package":"stockassessment",
+    "url":"https://github.com/fishfollower/SAM",
+    "subdir":"stockassessment",
+     "branch":"chr_xtra3_multi"
   }
 
 ]
