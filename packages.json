@@ -3,13 +3,15 @@
   
   {
     "package":"argosTrack",
-    "url":"https://github.com/calbertsen/argosTrack"
+    "url":"https://github.com/calbertsen/argosTrack",
+    "subdir":"argosTrack"
   },
   
   {
     "package":"otoclass",
     "url":"https://github.com/calbertsen/otoclass",
-    "branch":"feature/multi_group"
+    "branch":"feature/multi_group",
+    "subdir":"otoclass"
   }
 
 ]
