@@ -1,5 +1,14 @@
 [
-
+ {
+    "package":"testIntNA",
+    "url":"https://github.com/calbertsen/testIntNA",
+    "subdir":"testIntNA"
+  },
+    {
+    "package":"argosTrack",
+    "url":"https://github.com/calbertsen/argosTrack",
+    "subdir":"argosTrack"
+  },
   
   {
     "package":"argosTrack",
