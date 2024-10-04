@@ -1,4 +1,9 @@
 [
+  {
+    "package":"TMB",
+    "url":"https://github.com/calbertsen/adcomp",
+    "subdir":"TMB"
+  },
  {
     "package":"testIntNA",
     "url":"https://github.com/calbertsen/testIntNA",
