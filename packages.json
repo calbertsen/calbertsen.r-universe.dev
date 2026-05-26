@@ -33,14 +33,14 @@
     "package":"multiStockassessment",
     "url":"https://github.com/calbertsen/multi_SAM",
     "subdir":"multiStockassessment",
-     "branch":"shared_obs"
+     "branch":"F_TAC"
   },
   
    {
     "package":"stockassessment",
     "url":"https://github.com/fishfollower/SAM",
     "subdir":"stockassessment",
-     "branch":"rp_rebase"
+     "branch":"F_TAC"
   }
 
 ]
